@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: https://www.cminds.com/
 Tags: product, recommendations, product recommendation, recommended products, products
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
